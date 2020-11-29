@@ -9,8 +9,8 @@ Run requirements in terminal
 - pyinstaller --onefile fb_scraper.py
 
 # Setup your credentials
--Fill the credentials.txt with your facebook email and password
--Fill group_to_scrape.txt with the links you like to extract
+- Fill the credentials.txt with your facebook email and password
+- Fill group_to_scrape.txt with the links you like to extract
 e.g. https://www.facebook.com/groups/272341297286692/
 
 # Running 
